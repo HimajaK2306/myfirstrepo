@@ -1,2 +1,3 @@
 # myfirstrepo
-This is my first repo
+Hello, This is my first repo
+I'm Himaja and I want to visit museum of illusions
